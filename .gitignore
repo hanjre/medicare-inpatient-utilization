@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+
+# Data files (don’t track raw or sensitive data)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.bak
+*.dump
+
+# Secrets
+*.env
+*.key
+*.pem
+
+# Logs
+*.log
+
