@@ -4,7 +4,7 @@ SQL pipeline to transform raw Medicare inpatient data into annual utilization tr
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates how to take **raw healthcare tables** (inpatient Medicare hospital data) and transform them into a **tidy, analysis-ready table**.  
 
 It covers:
