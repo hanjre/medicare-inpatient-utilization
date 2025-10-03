@@ -1,6 +1,7 @@
 # Medicare Inpatient Utilization
 
-SQL pipeline to transform raw Medicare inpatient data into annual utilization trends with quality checks.
+## About
+SQL pipeline that transforms messy Medicare inpatient hospital data into a clean, analysis-ready dataset of annual utilization trends. Includes modular SQL scripts, synthetic demo data, automated quality checks, and documentation (schema + workflow). Demonstrates healthcare data engineering and data quality validation in a reproducible, portfolio-friendly project.
 
 ---
 
